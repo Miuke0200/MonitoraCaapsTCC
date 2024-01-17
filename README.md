@@ -6,7 +6,7 @@ Membros:
 Ariely Cardoso Moraes,
 Giovanna Vitória Jesus de Oliveira,
 Lorranny Regina de Matos Cunha,
-Maria Clara Bueno,
+Maria Clara Bueno e
 Maria Eduarda Miuke Campelo Tagomori.
 
 Orientador:
@@ -14,5 +14,5 @@ Sérgio Montagner
 
 Coorientadores:
 Antônio Edson Monteiro Laurenti,
-Carlos Augusto Gomes,
+Carlos Augusto Gomes e
 Kátia Maria Teruco Fushita.
